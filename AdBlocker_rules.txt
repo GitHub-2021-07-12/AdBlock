@@ -1,3 +1,5 @@
+yandex.ru#?#.popup2
+yandex.ru#?#div:has(> div > div > img[src^="https://yandex.ru/video/_crpd"])
 yandex.ru#?#div:has(> div > div > img[src^="https://yandex.ru/weather/_cry"])
 yandex.ru#?#div:has(> div > div.distr-popup__icon)
-yandex.ru#?#div:has(> div > div > img[src^="https://yandex.ru/video/_crpd"])
+yandex.ru#?#div[aria-label="Реклама"]
