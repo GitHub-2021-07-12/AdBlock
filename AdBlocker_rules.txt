@@ -1,4 +1,3 @@
-yandex.ru#?#.popup2
 # yandex.ru#?#div:has(> div > div > img[src^="https://yandex.ru/news/_nzp"])
 # yandex.ru#?#div:has(> div > div > img[src^="https://yandex.ru/video/_crpd"])
 # yandex.ru#?#div:has(> div > div > img[src^="https://yandex.ru/weather/_cry"])
