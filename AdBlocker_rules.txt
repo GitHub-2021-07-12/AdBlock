@@ -12,5 +12,6 @@ dzen.ru#?#div[aria-label="Реклама"]
 yandex.ru##.Modal_theme_normal.Modal_hasAnimation.Modal_visible.Modal
 yandex.ru##.dist-stripe
 yandex.ru#?#div:has(> div > div > img[src^="https://yandex"])
+yandex.ru#?#div:has(> div > span[style*="https://avatars.mds.yandex.net"])
 yandex.ru#?#div:has(> div > div.distr-popup__icon)
 yandex.ru#?#div[aria-label="Реклама"]
